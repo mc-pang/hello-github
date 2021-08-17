@@ -1,5 +1,5 @@
 # Hello github
 
-oops
+o-ops
 
 📁 Repo structure 
