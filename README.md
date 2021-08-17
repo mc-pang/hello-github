@@ -1,3 +1,3 @@
-# hello-github
+# Hello github
 
 📁 Repo structure 
