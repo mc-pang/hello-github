@@ -1,5 +1,15 @@
 # Hello github
 
-o_ops
+```
+# download repo
+git clone http://github-repo-url
 
-📁 Repo structure 
+# Add, commit & push changes 
+git add changed_file.txt
+git commit -m 'commit message'
+git push
+
+# pull in changes from report
+git pull
+
+```
